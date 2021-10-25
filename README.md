@@ -3,7 +3,7 @@
   <a href="https://github.com/Squ3let0n">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Squ3let0n&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Squ3let0n&hide=contribs,prs)/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Squ3let0n&hide=contribs,prs/>
 </div>
  <div style="display: inline_block"><br>
  <a href="https://certificates.digitalinnovation.one/7DE5DB81"> <img align="center" alt="Squ3-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
